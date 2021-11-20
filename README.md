@@ -3,14 +3,18 @@ Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9 for windows x64
 
 After wasting time to get these files I compiled them.
 
-Download the file you need
+1- Download the file you need
+2- copy it in the root folder of ypur python distribuition
+3- open a cmd shell in the root folder
 
 python 3.7
-pip install dlib-19.22.99-cp37-cp37m-win_amd64.whl 
+python -m pip install dlib-19.22.99-cp37-cp37m-win_amd64.whl 
 
 python 3.8
-pip install dlib-19.22.99-cp38-cp38m-win_amd64.whl
+python -m pip install dlib-19.22.99-cp38-cp38m-win_amd64.whl
 
 python 3.9
-pip install dlib-19.22.99-cp39-cp39m-win_amd64.whl
+python -m pip install dlib-19.22.99-cp39-cp39m-win_amd64.whl
+
+That's it
 

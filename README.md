@@ -28,5 +28,13 @@ python -m pip install dlib-19.22.99-cp38-cp38m-win_amd64.whl
 ```
 python -m pip install dlib-19.22.99-cp39-cp39m-win_amd64.whl
 ```
+### python 3.10
+```
+python -m pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+```
+### python 3.11
+```
+python -m pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
+```
 That's it
 

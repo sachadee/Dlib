@@ -5,7 +5,7 @@ After wasting a lot of time to get these files, I compiled them myself.
 
 1- Download the file you need
 
-2- copy it in the root folder of ypur python distribuition
+2- copy it in the root folder of your python distribuition
 
 3- open a cmd shell in the your root python folder 
 

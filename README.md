@@ -132,9 +132,9 @@ or
 python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp315-cp315-win_amd64.whl
 ```
 
-##BONUS:
+## BONUS:
 
-###Full recognition pipeline  to test dlib:
+### Full recognition pipeline  to test dlib:
 
 Python code to detect/recognize from an image :
 

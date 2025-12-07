@@ -105,5 +105,15 @@ or
 python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp314-cp314-win_amd64.whl
 ```
 
-That's it
+### python 3.15
+```
+python -m pip install dlib-20.0.0-cp315-cp315-win_amd64.whl
+```
+or
+
+```
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp315-cp315-win_amd64.whl
+```
+
+##That's it
 

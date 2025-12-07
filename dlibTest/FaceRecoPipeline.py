@@ -13,30 +13,7 @@ imageInput = "./im/recoIm.jpg"
 predictor_path = "./weights/shape_predictor_68_face_landmarks.dat"
 recognizer_path = "./weights/dlib_face_recognition_resnet_model_v1.dat"
 
-import os
-
-def chunk_file_by_size(file_path, chunk_size_mb):
-    # ... (same function as before) ...
-    chunk_size_bytes = chunk_size_mb * 1024 * 1024
-    part_num = 1
-    with open(file_path, 'rb') as infile:
-        while True:
-            chunk = infile.read(chunk_size_bytes)
-            if not chunk: break
-            output_file_path = f"{file_path}.part{part_num}"
-            with open(output_file_path, 'wb') as outfile:
-                outfile.write(chunk)
-            print(f"Created part {part_num}: {output_file_path}")
-            part_num += 1
-
-# --- Example Usage ---
-# Use the actual filename of your Dlib model file
-input_file_name = './weights/shape_predictor_68_face_landmarks.dat' # Replace with your filename
-chunk_size = 24 # in MB
-
-chunk_file_by_size(input_file_name, chunk_size)
-
-exit()
+##This is done 1 time because of the size limitations f github
 
 def join_files(input_base_path):
     search_pattern = f"{input_base_path}.part*"

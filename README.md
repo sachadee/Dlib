@@ -3,6 +3,8 @@ Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.
 
 After wasting a lot of time to get these files, I compiled them myself.
 
+[Link to the BONUS section with full recognition pipeline with Dlib](#BONUS)
+
 ## Installation:
 You can download and use the autoInstall script:
 it will automatically detect your python version, check if dlib is already installed if not it will download the right wheel from this repo and install it:

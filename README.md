@@ -132,5 +132,27 @@ or
 python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp315-cp315-win_amd64.whl
 ```
 
+##BONUS:
+
+###Full recognition pipeline  to test dlib:
+
+Python code to detect/recognize from an image :
+
+ [Detect or Recognize code](./dlibTest/FaceRecoPipeline.py)
+
+ for detection only you can test with the image :
+
+ ![./dlibTest/im/detectIm.jpg](./dlibTest/im/detectIm.jpg)
+
+ for recognition:
+
+![./dlibTest/im/detectIm.jpg](./dlibTest/im/recoIm.jpg)
+ 
+You will get 2 images in the results dir:
+
+ ![./dlibTest/results/result.jpg](./dlibTest/results/result.jpg)
+ and
+ ![./dlibTest/results/black_result.jpg](./dlibTest/results/black_result.jpg)
+
 ##That's it
 

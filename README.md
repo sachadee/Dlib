@@ -1,5 +1,5 @@
-# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11,3.13.,3.14,3.15 for Windows X64
-Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9,3.10, 3.11, 3.13, 3.14, 3.15 for windows x64
+# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11, 3.13, 3.14, 3.15 for Windows X64
+Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9, 3.10, 3.11, 3.13, 3.14, 3.15 for windows x64
 
 After wasting a lot of time to get these files, I compiled them myself.
 

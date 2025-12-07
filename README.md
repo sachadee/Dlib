@@ -29,6 +29,19 @@ python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
 python -m pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
 ```
 ### python 3.10
+
+#### Should work with 
+
+```
+pip install dlip
+```
+
+DLIB Version 19.22.99
+```
+python -m pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+```
+
+DLIB Version 20.0.0
 ```
 python -m pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
 ```

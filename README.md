@@ -48,90 +48,34 @@ python -m pip install dlib-20.0.0-cp37-cp37-win_amd64.whl
 ```
 python -m pip install dlib-20.0.0-cp38-cp38-win_amd64.whl
 ```
-or
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp38-cp38-win_amd64.whl
-
-```
 ### python 3.9
 ```
 python -m pip install dlib-20.0.0-cp39-cp39-win_amd64.whl
 ```
-or
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp38-cp38-win_amd64.whl
-```
 ### python 3.10
-
-#### Should work directly with: 
-
-```
-pip -m install dlib
-```
-
-#### If not:
-
-DLIB Version 20.0.0
 ```
 python -m pip install dlib-20.0.0-cp310-cp310-win_amd64.whl
 ```
-or
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp310-cp310-win_amd64.whl
-```
-
-
 ### python 3.11
 ```
 python -m pip install dlib-20.0.0-cp311-cp311-win_amd64.whl
 ```
-or
-
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp311-cp311-win_amd64.whl
-```
-
 ### python 3.12
 ```
 python -m pip install dlib-20.0.0-cp312-cp312-win_amd64.whl
 ```
-or
-
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp312-cp312-win_amd64.whl
-```
-
 ### python 3.13
 ```
 python -m pip install dlib-20.0.0-cp313-cp313-win_amd64.whl
 ```
-or
-
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp313-cp313-win_amd64.whl
-```
-
-
 ### python 3.14
 ```
 python -m pip install dlib-20.0.0-cp314-cp314-win_amd64.whl
 ```
-or
-
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp314-cp314-win_amd64.whl
-```
-
 ### python 3.15
 ```
 python -m pip install dlib-20.0.0-cp315-cp315-win_amd64.whl
 ```
-or
-
-```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp315-cp315-win_amd64.whl
-```
-
 ## BONUS:
 
 ### Full recognition pipeline  to test dlib:

@@ -91,9 +91,14 @@ Python code to detect/recognize from an image :
  for recognition:
 
 ![./dlibTest/im/detectIm.jpg](./dlibTest/im/recoIm.jpg)
- 
-You will get 2 images in the results dir:
 
+The result in the console: between the 2 faces detected in th image:
+
+ ![./dlibTest/im/reco.jpg](./dlibTest/im/reco.jpg)
+
+
+you will get also 2 images in the results dir:
+ 
  ![./dlibTest/results/result.jpg](./dlibTest/results/result.jpg)
  and
  ![./dlibTest/results/black_result.jpg](./dlibTest/results/black_result.jpg)

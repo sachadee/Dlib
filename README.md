@@ -1,5 +1,5 @@
-# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11 for Windows 10 X64
-Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9 for windows x64
+# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11,3.13.,3.14,3.15 for Windows X64
+Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9,3.10, 3.11, 3.13, 3.14, 3.15 for windows x64
 
 After wasting a lot of time to get these files, I compiled them myself.
 
@@ -83,6 +83,17 @@ or
 ```
 python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-19.24.1-cp311-cp311-win_amd64.whl
 ```
+
+### python 3.13
+```
+python -m pip install dlib-20.0.0-cp313-cp313-win_amd64.whl
+```
+or
+
+```
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp313-cp313-win_amd64.whl
+```
+
 
 ### python 3.14
 ```

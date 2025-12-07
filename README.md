@@ -1,5 +1,5 @@
-# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11, 3.13, 3.14, 3.15 for Windows X64
-Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9, 3.10, 3.11, 3.13, 3.14, 3.15 for windows x64
+# Dlib compiled wheels for Python 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15 for Windows X64
+Dlib compiled binary (.whl) for python 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15 for windows x64
 
 After wasting a lot of time to get these files, I compiled them myself.
 
@@ -35,24 +35,25 @@ cd c:\python37
 
 ### python 3.7
 ```
-python -m pip install dlib-19.22.99-cp37-cp37-win_amd64.whl 
+python -m pip install dlib-20.0.0-cp37-cp37-win_amd64.whl 
 ```
+
 ### python 3.8
 ```
-python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
+python -m pip install dlib-20.0.0-cp38-cp38-win_amd64.whl
 ```
 or
 ```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-19.22.99-cp38-cp38-win_amd64.whl
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp38-cp38-win_amd64.whl
 
 ```
 ### python 3.9
 ```
-python -m pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+python -m pip install dlib-20.0.0-cp39-cp39-win_amd64.whl
 ```
 or
 ```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-19.22.99-cp38-cp38-win_amd64.whl
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp38-cp38-win_amd64.whl
 ```
 ### python 3.10
 
@@ -76,12 +77,22 @@ python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp31
 
 ### python 3.11
 ```
-python -m pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
+python -m pip install dlib-20.0.0-cp311-cp311-win_amd64.whl
 ```
 or
 
 ```
-python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-19.24.1-cp311-cp311-win_amd64.whl
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp311-cp311-win_amd64.whl
+```
+
+### python 3.12
+```
+python -m pip install dlib-20.0.0-cp312-cp312-win_amd64.whl
+```
+or
+
+```
+python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-20.0.0-cp312-cp312-win_amd64.whl
 ```
 
 ### python 3.13

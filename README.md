@@ -59,7 +59,7 @@ python -m pip install https://github.com/sachadee/Dlib/raw/main/dlib-19.22.99-cp
 #### Should work directly with: 
 
 ```
-pip install dlib
+pip -m install dlib
 ```
 
 #### If not:

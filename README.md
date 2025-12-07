@@ -6,7 +6,8 @@ After wasting a lot of time to get these files, I compiled them myself.
 ## Installation:
 You can download and use the autoInstall script:
 it will automatically detect your python version, check if dlib is already installed if not it will download the right wheel from this repo and install it:
-[Auto Install Dlib](./util/autoInstallDlib.py)
+
+ [Auto Install Dlib](./util/autoInstallDlib.py)
 
 ![Auto Install Dlib](./dlibTest/im/output.gif)
 
